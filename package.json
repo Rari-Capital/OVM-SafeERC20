@@ -1,5 +1,5 @@
 {
   "name": "ovm-safeerc20",
   "version": "1.0.0",
-  "description": ""
+  "description": "OVM-safe version of OpenZepplin's SafeERC20.sol"
 }
