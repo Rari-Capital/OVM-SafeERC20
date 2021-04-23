@@ -18,7 +18,7 @@ import "ovm-safeerc20/OVM_SafeERC20.sol";
 
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 
-contract L2_NovaRegistry {
+contract YourContract {
     using OVM_SafeERC20 for IERC20;
 
     ... your contract here ...
